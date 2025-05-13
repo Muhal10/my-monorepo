@@ -1,0 +1,9 @@
+{
+  "name": "feature-x",
+  "version": "1.0.0",
+  "main": "src/FeatureOne.tsx",
+  "dependencies": {
+    "ui-components": "1.0.0",
+    "utils": "1.0.0"
+  }
+}

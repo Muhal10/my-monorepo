@@ -1,0 +1,9 @@
+{
+  "name": "feature-y",
+  "version": "1.0.0",
+  "main": "src/FeatureTwo.tsx",
+  "dependencies": {
+    "ui-components": "1.0.0",
+    "utils": "1.0.0"
+  }
+}

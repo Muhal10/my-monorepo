@@ -1,0 +1,8 @@
+{
+  "name": "ui-components",
+  "version": "1.0.0",
+  "main": "src/Button.ts",
+  "dependencies": {
+    "react": "^18.0.0"
+  }
+}
